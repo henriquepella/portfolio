@@ -1,7 +1,7 @@
 # Portfólio — Henrique Pella
 
-Portfólio pessoal de **Henrique Aguiar de Souza Pella**, Software Engineer.
-Single-page premium construída com Next.js (App Router), com dark mode, i18n PT/EN, animações suaves e SEO completo.
+Portfólio pessoal de **Henrique Aguiar de Souza Pella**, estudante de Engenharia de Software (PUC-Campinas).
+Projeto de estudo: single-page construída com Next.js (App Router), com dark mode, i18n PT/EN, animações suaves e SEO completo.
 
 ## Stack
 
